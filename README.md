@@ -19,6 +19,10 @@ plist / SQLite データベースをブラウズ・解析するための SwiftUI
   - `Sources/ForensicCore/Generic/SQLiteBrowser.swift` — SQLite データベースの読み込み（[GRDB.swift](https://github.com/groue/GRDB.swift) を使用）
   - `Tests/ForensicCoreTests/` — 上記に対する単体テスト
 
+## 用語集
+
+Swift / SwiftUI / Xcode に不慣れな方向けの用語集を [GLOSSARY.md](GLOSSARY.md) にまとめています。
+
 ## 必要環境
 
 - Xcode / Swift 6.0 以降
