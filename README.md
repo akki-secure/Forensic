@@ -23,6 +23,11 @@ plist / SQLite データベースをブラウズ・解析するための SwiftUI
 
 Swift / SwiftUI / Xcode に不慣れな方向けの用語集を [GLOSSARY.md](GLOSSARY.md) にまとめています。
 
+## CTF練習問題
+
+macフォレンジックのスキルを鍛えるための練習ケース集を [Training/](Training/README.md) に用意しています。
+各ケースの問題文は `Training/case-XX-.../README.md` にあります。
+
 ## 必要環境
 
 - Xcode / Swift 6.0 以降

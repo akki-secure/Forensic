@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>contentType</key>
+		<string>System</string>
+		<key>date</key>
+		<date>2024-08-02T13:50:41Z</date>
+		<key>displayName</key>
+		<string>update helper</string>
+		<key>displayVersion</key>
+		<string>1.0</string>
+		<key>packageIdentifiers</key>
+		<array>
+			<string>com.update.helper</string>
+		</array>
+		<key>processName</key>
+		<string>update.sh</string>
+	</dict>
+</array>
+</plist>

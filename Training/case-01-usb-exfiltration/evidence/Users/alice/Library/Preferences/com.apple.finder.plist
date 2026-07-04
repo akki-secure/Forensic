@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FXDesktopVolumePositions</key>
+	<dict>
+		<key>CONFIDENTIAL_USB</key>
+		<dict>
+			<key>X</key>
+			<real>320</real>
+			<key>Y</key>
+			<real>128</real>
+			<key>MountedAt</key>
+			<string>2024-05-10T09:14:47Z</string>
+		</dict>
+	</dict>
+	<key>FXRecentFolders</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>design-docs</string>
+			<key>file-path</key>
+			<string>/Volumes/CONFIDENTIAL_USB/design-docs</string>
+		</dict>
+	</array>
+</dict>
+</plist>
