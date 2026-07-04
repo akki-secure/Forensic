@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Name</key>
+    <string>Report-final-updated.pdf</string>
+    <key>IsRecent</key>
+    <true/>
+    <key>ByteSize</key>
+    <integer>48213</integer>
+    <key>LastUsedDate</key>
+    <date>2025-04-26T07:19:51Z</date>
+    <key>Tags</key>
+    <array>
+        <string>reports</string>
+        <string>final</string>
+    </array>
+    <key>Nested</key>
+    <dict>
+        <key>Owner</key>
+        <string>umair-thm</string>
+    </dict>
+</dict>
+</plist>

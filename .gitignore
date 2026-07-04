@@ -1,0 +1,14 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+Forensic/Forensic.xcodeproj/project.xcworkspace/xcuserdata/
+Forensic/Forensic.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/ForensicCore/.build/
+Packages/ForensicCore/.swiftpm/
+
+# macOS
+.DS_Store
